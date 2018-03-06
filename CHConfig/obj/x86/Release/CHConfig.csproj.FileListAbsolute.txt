@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\bin\Release\CHConfig.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\bin\Release\CHConfig.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\bin\Release\CHConfig.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.FormMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.FormStudyResult.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CHConfig\CHConfig\obj\x86\Release\CHConfig.FormStudyGetResult.resources
